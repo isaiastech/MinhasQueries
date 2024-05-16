@@ -1,0 +1,12 @@
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Alexandre', 'Recepcionista', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Allan', 'Recepcionista', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Claudinei', 'Mensageiro', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Daniela', 'Recepcionista', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Dilceu', 'Mensageiro', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Dirce', 'Recepcionista', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Ednilson', 'Administrativo', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Isaias', 'Recepcionista', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Josemar', 'Gerente de Reservas', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Sidnei', 'Mensageiro', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Tarcisio', 'Gerente de Compras', '2024-03-04 16:03:16', '2024-03-04 16:03:16');
+INSERT INTO `avaliados` (`id`, `nome`, `cargo`, `created_at`, `updated_at`) VALUES (NULL, 'Valtair', 'Mensageiro', '2024-03-04 16:03:16', '2024-03-04 16:03:16');

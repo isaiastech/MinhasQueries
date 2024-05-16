@@ -1,0 +1,7 @@
+CREATE PROCEDURE consulta()
+BEGIN
+SELECT * FROM CURSOS;
+
+END
+#
+
