@@ -7,7 +7,7 @@ UPDATE `comissao_recepcao` SET `saida` = '2024-02-13' WHERE `comissao_recepcao`.
 
 SELECT id, hospede, fatura, apto,numero_de_diarias,valorcobrado ,entrada,saida
     FROM comissao_recepcao 
-		WHERE fatura LIKE '%Não%' AND saida = '2024-05-17';
+		WHERE fatura LIKE '%Não%' AND saida = '2024-05-18';
 
 -- Update Registros
 
