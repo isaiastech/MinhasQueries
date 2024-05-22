@@ -12,3 +12,11 @@ CREATE TABLE cafe(
     apto INT(),
     
 );
+
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 43; 
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 44; 
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 45; 
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 46; 
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 47; 
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 35; 
+UPDATE `clientes` SET `situacao` = 'Pago' WHERE `clientes`.`id` = 36; 
