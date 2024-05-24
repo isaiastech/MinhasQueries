@@ -7,7 +7,7 @@ UPDATE `comissao_recepcao` SET `saida` = '2024-02-13' WHERE `comissao_recepcao`.
 
 SELECT id, hospede, fatura, apto,numero_de_diarias,valorcobrado ,entrada,saida
     FROM comissao_recepcao 
-		WHERE fatura LIKE '%Não%' AND saida = '2024-05-21';
+		WHERE fatura LIKE '%Não%' AND saida = '2024-05-25';
 
 -- Update Registros
 
@@ -17,7 +17,7 @@ UPDATE comissao_recepcao SET apto = '309'  WHERE id = '2330';
 
 -- Deletar registro
 
-DELETE FROM `comissao_recepcao` WHERE `comissao_recepcao`.`id` = xxx;
+DELETE FROM `comissao_recepcao` WHERE `comissao_recepcao`.`id` = 3235;
 DELETE FROM `comissao_recepcao` WHERE `comissao_recepcao`.`id` = xxx;
 
 
