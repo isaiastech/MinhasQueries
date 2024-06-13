@@ -36,8 +36,9 @@ UPDATE `gradedecanais` SET `emissora` = 'Bragantino X Flamengo ', `imagem` = 'im
         Sairemos às 13h50min, ou até mesmo 13h50.
 /*************/
 
-UPDATE `gradedecanais` SET `emissora` = 'Sportv2', `imagem` = 'img-Canais/sportv2.png' WHERE `gradedecanais`.`id` = 16;
-UPDATE `gradedecanais` SET `emissora` = 'Warner', `imagem` = 'img-Canais/warner.png' WHERE `gradedecanais`.`id` =19 ;
+UPDATE `gradedecanais` SET `emissora` = 'Paramount', `imagem` = 'img-Canais/paramount.png' WHERE `gradedecanais`.`id` = 19;
+UPDATE `gradedecanais` SET `emissora` = 'Band News', `imagem` = 'img-Canais/band-news.png' WHERE `gradedecanais`.`id` =21 ;
+
 UPDATE `gradedecanais` SET `emissora` = 'Sportv', `imagem` = 'img-Canais/sportv.png' WHERE `gradedecanais`.`id` =14 ;
 UPDATE `gradedecanais` SET `emissora` = 'HBO-pop', `imagem` = 'img-Canais/hbo-pop.png' WHERE `gradedecanais`.`id` =11 ;
 UPDATE `gradedecanais` SET `emissora` = 'space', `imagem` = 'img-Canais/space.png' WHERE `gradedecanais`.`id` = 19;
