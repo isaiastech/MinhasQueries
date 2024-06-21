@@ -37,7 +37,7 @@ UPDATE `gradedecanais` SET `emissora` = 'Bragantino X Flamengo ', `imagem` = 'im
 /*************/
 
 UPDATE `gradedecanais` SET `emissora` = 'Paramount', `imagem` = 'img-Canais/paramount.png' WHERE `gradedecanais`.`id` = 19;
-UPDATE `gradedecanais` SET `emissora` = 'Band News', `imagem` = 'img-Canais/band-news.png' WHERE `gradedecanais`.`id` =21 ;
+UPDATE `gradedecanais` SET `emissora` = 'Globo News', `imagem` = 'img-Canais/globo-news.png' WHERE `gradedecanais`.`id` =21 ;
 
 UPDATE `gradedecanais` SET `emissora` = 'Sportv', `imagem` = 'img-Canais/sportv.png' WHERE `gradedecanais`.`id` =14 ;
 UPDATE `gradedecanais` SET `emissora` = 'HBO-pop', `imagem` = 'img-Canais/hbo-pop.png' WHERE `gradedecanais`.`id` =11 ;
