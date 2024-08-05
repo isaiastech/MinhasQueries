@@ -24,7 +24,8 @@ INSERT INTO `gradedecanais` (`id`, `numero_canal`, `emissora`, `imagem`) VALUES
 
 /*Voltar ao canal da piscina*/
 
-UPDATE `gradedecanais` SET `emissora` = 'History-2', `imagem` = 'img-Canais/history-channel-2.png' WHERE `gradedecanais`.`id` = 12;
+UPDATE `gradedecanais` SET `emissora` = 'Telecine Pipoca', `imagem` = 'img-Canais/telecine-pipoca.png' WHERE `gradedecanais`.`id` = 17;
+
 UPDATE `gradedecanais` SET `emissora` = 'History-channel', `imagem` = 'img-Canais/history-channel.png' WHERE `gradedecanais`.`id` = 10;
 
         
