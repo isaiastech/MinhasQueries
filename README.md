@@ -1,2 +1,2 @@
-# MinhasQueries
-lista de comandos sql
+## MinhasQueries
+* lista de comandos sql
