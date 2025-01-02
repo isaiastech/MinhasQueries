@@ -27,10 +27,10 @@ UPDATE servicos SET valor ='100.0', data = now() WHERE id_aptos = '13';
 
 --Mensalistas Aptos
 
-UPDATE mensalista SET preco ='2500' WHERE id = '1';
-UPDATE mensalista SET preco ='3200' WHERE id = '2';
-UPDATE mensalista SET preco ='3400' WHERE id = '3';
-UPDATE mensalista SET preco ='4400' WHERE id = '4';
+UPDATE mensalista SET preco ='2750' WHERE id = '1';
+UPDATE mensalista SET preco ='3520' WHERE id = '2';
+UPDATE mensalista SET preco ='3740' WHERE id = '3';
+UPDATE mensalista SET preco ='4840' WHERE id = '4';
 
 INSERT INTO `mensalista` (`id`, `categoria`, `preco`) VALUES (NULL, 'Sala Real', '300');
 
