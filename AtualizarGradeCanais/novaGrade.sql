@@ -31,7 +31,7 @@ UPDATE `gradedecanais` SET `emissora` = 'History-channel', `imagem` = 'img-Canai
         
 /*Trocar para Premier*/
 
-UPDATE `gradedecanais` SET `emissora` = 'Bragantino X Flamengo ', `imagem` = 'img-Canais/premiere.png' WHERE 
+UPDATE `gradedecanais` SET `emissora` = 'Animal Planet ', `imagem` = 'img-Canais/animal-planet.png' WHERE 
 `gradedecanais`.`id` = 12;
 
         terá início às 14h
